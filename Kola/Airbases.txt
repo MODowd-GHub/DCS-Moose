@@ -1,0 +1,15 @@
+Airbases of the Kola map
+
+AIRBASE.Kola.Bas_100
+AIRBASE.Kola.Bodo
+AIRBASE.Kola.Jokkmokk
+AIRBASE.Kola.Kalixfors
+AIRBASE.Kola.Kemi_Tornio
+AIRBASE.Kola.Kiruna
+AIRBASE.Kola.Lakselv
+AIRBASE.Kola.Monchegorsk
+AIRBASE.Kola.Murmansk_International
+AIRBASE.Kola.Olenegorsk
+AIRBASE.Kola.Rovaniemi
+AIRBASE.Kola.Severomorsk1
+AIRBASE.Kola.Severomorsk3
